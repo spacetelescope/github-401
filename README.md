@@ -3,4 +3,6 @@
 ### Participants
 
 Please list your name below if you attended the Git(Hub) 401 Tutorial at `.astronomy` 2018!
-Andy Connolly
+- Matthew Bourque
+- Claire Murray
+- Andy Connolly
