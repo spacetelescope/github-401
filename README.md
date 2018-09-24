@@ -18,3 +18,4 @@ Please list your name below if you attended the Git(Hub) 401 Tutorial at `.astro
 - Azalee Bostroem
 - Jamie Kinney (jamiekin)
 - Orapeleng
+- Rocio Kiman
