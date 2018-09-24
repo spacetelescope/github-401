@@ -1,0 +1,4 @@
+# A quick sript to pritn the system time, using R. To run, execute the following command:
+# Rscript malpaslan-time.Rscript
+
+print(Sys.time())
