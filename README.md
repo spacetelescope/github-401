@@ -10,3 +10,4 @@ Please list your name below if you attended the Git(Hub) 401 Tutorial at `.astro
 - Mehmet Alpaslan
 - David Rodriguez
 - Katie Breivik
+- Renee Hlozek
