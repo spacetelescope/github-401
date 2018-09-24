@@ -21,3 +21,4 @@ Please list your name below if you attended the Git(Hub) 401 Tutorial at `.astro
 - Rocio Kiman
 - Nora Luetzgendorf
 - Rick White
+- Jean-Paul (JP) Ventura
