@@ -15,3 +15,4 @@ Please list your name below if you attended the Git(Hub) 401 Tutorial at `.astro
 - jameshowison
 - Andy Connolly
 - Greg Snyder
+- Azalee Bostroem
